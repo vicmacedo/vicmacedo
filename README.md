@@ -1,4 +1,1 @@
-
-<html>
-  <center> teste </center>
-</html>
+<div align="center"> teste </div>
