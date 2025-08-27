@@ -1,5 +1,5 @@
 
-<center>    
+<center>    <a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=wqt4t3ann9cekx1a52ndy7es92upmyp5" border="0" title="website counter" alt="website counter"></a></center>
   <details>
     <summary>Português</summary>
       Português
@@ -14,6 +14,8 @@
         <br>
       <img src="https://i.ibb.co/201fLx4k/cursor-desktop2.png"/><br>
       <img src="https://i.ibb.co/bMmmQmQ5/notepad.png"/><br>
+
+
       
 
       
