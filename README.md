@@ -1,8 +1,10 @@
 
 <div align="center">
-  <a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=wqt4t3ann9cekx1a52ndy7es92upmyp5" border="0" title="website counter" alt="website counter"></a>
-  <details>
-    <summary>Português</summary>
+  
+<a href="https://www.freecounterstat.com" title="page counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=dyz8j5jhcjr94ysdu9911udkx9ws4n2s" border="0" title="page counter" alt="page counter"></a>
+
+<details>
+  <summary>Português</summary>
     <img src="https://i.ibb.co/vCy0bm8z/1-carteirinha.png"/><br>
     <br>
     <img src="https://i.ibb.co/vCD8D3dq/2-app1.png"/>ㅤㅤ<img src="https://i.ibb.co/G4Y99XRg/3-website.png"/>ㅤㅤ<img src="https://i.ibb.co/s9gzhPft/4-portfolio.png"/><br>
@@ -19,8 +21,8 @@
     <br>
     <img src="https://i.ibb.co/jZMJ0hxk/11-meucomputador.png"/><br>
     <br>
-    <img src="https://i.ibb.co/Xr6CjZvD/12-erro.png"/><br>
-  </details>
+   <img src="https://i.ibb.co/Xr6CjZvD/12-erro.png"/><br>
+</details>
   
 <details>
   <summary>
@@ -46,8 +48,4 @@
   
 </details>
 
-
-  
-  
-  
 </div>
