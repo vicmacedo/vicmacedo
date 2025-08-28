@@ -11,14 +11,15 @@
     ㅤㅤ<img src="https://github.com/user-attachments/assets/1586e6c4-6332-4fec-94ca-a9657850eef0"/><br>
     <br>
     <img src="https://i.ibb.co/ptJzCnT/7-cmdpowershellpt.png"/><br>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
+    <br>
+    <img src="https://i.ibb.co/Zz95hXbZ/8-notepadmensagem.png"/><br>
+    <img src="https://i.ibb.co/4RsYhK81/9-notepadpt.png"/><br>
+    <br>
+    <img src="https://i.ibb.co/ZznqfMSv/10-aten-o.png"/><br>
+    <br>
+    <img src="https://i.ibb.co/jZMJ0hxk/11-meucomputador.png"/><br>
+    <br>
+    <img src="https://i.ibb.co/Xr6CjZvD/12-erro.png"/><br>
   </details>
   
 <details>
@@ -33,18 +34,15 @@
   ㅤㅤ<img src="https://i.ibb.co/tp8FRQDd/6-workfield.png"/><br>
   <br>
   <img src="https://i.ibb.co/PGGwNp9P/7-cmdpowershellen.png"/><br>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
+  <br>
+  <img src="https://i.ibb.co/zhvtdxg6/8-notepadmessage.png"/><br>
+  <img src="https://i.ibb.co/1fK2HNjy/9-notepadeg.png"/><br>
+  <br>
+  <img src="https://i.ibb.co/7d7ZP9vB/10-attention.png"/><br>
+  <br>
+  <img src="https://i.ibb.co/M57g4pkz/11-mycomputer.png"/><br>
+  <br>
+  <img src="https://i.ibb.co/bghgLVsB/12-error.png"/><br>
   
 </details>
 
