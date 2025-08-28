@@ -1,7 +1,8 @@
 
 <div align="center">
-  
-<a href="https://www.freecounterstat.com" title="page counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=dyz8j5jhcjr94ysdu9911udkx9ws4n2s" border="0" title="page counter" alt="page counter"></a>
+
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vicmacedo)
+  <h2>Welcome to my profile! </h2>
 
 <details>
   <summary>Português</summary>
@@ -48,4 +49,5 @@
   
 </details>
 
+<h2></h2>
 </div>
