@@ -52,4 +52,7 @@
 <h2>More</h2>
 Website (🛠️)
 Curriculum (🛠️)
+
+</br>
+⚠️ As imagens deste perfil foram editadas por mim, exceto <a href="https://picrew.me/ja/image_maker/2003689">Picrew</a>.
 </div>
