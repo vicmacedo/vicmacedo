@@ -49,5 +49,7 @@
   
 </details>
 
-<h2></h2>
+<h2>More</h2>
+Website (🛠️)
+Curriculum (🛠️)
 </div>
