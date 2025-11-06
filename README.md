@@ -3,8 +3,6 @@
 
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vicmacedo)
   <h2>Welcome to my profile! </h2>
-
-<h2>More</h2>
 Website (🛠️)
 Curriculum (🛠️)
 <p></p>
